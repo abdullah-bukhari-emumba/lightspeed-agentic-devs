@@ -1,5 +1,5 @@
 # lightspeed-agentic-devs
-Light speed learning of how to build AI Agents
+Light speed learning of how to build AI Agents, below are projects that will be done InshaALLAH.
 
 ## Python: 
 _Streamlit:_  
